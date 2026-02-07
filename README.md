@@ -29,6 +29,12 @@ Unlike grid-based systems (French Cleat or Pegboard), this wall uses direct scre
 ### 4. Ambient Lighting
 * **Backlight:** RGB Neon LED strips are mounted in the perimeter to provide ambient contrast, highlighting the tool silhouettes (Shadow Board effect).
 
+### 5. Stackable Component Bins (Multi-Color)
+To organize small and medium electronic parts (resistors, LEDs, Arduino, driver's, step up, etc), I designed a custom modular bin system:
+* **Interlocking Design:** The boxes feature a bottom lip that fits perfectly into the top of another box, allowing for stable vertical stacking.
+* **High-Contrast Labeling:** The text on the front is printed in a contrasting color (White on Black) to ensure readability from a distance.
+* **Technique:** This multi-color effect was achieved on a standard **single-extruder printer** by printing the wall with the letters separated. You only need to write what ou want, add a pause in the right height and change the filament.
+
 ##  The Design Workflow (Fusion 360)
 
 Since every toolset is unique, sharing my specific STLs might not fit your tools. However, you can replicate my process:
