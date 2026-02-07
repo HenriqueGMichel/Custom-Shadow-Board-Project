@@ -47,9 +47,8 @@ Since every toolset is unique, sharing my specific STLs might not fit your tools
 
 ##  Template Files (`/templates`)
 To help you get started, I have included generic template files in the `templates` folder of this repository.
-* `ATENCAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO`
-* `template_drill_holder.f3d` (Fusion 360 Source File)
-* `template_removable_dock.f3d` (The mechanism for detachable parts)
+* `Tape.stl` (For holding big tapes)
+* `Detachable Drill Part.stl` (The mechanism for detachable parts)
 
 ##  Hardware Used
 * **Material:** PLA (Black for contrast).
